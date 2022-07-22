@@ -1,2 +1,2 @@
 # e-commerceproject
-Desenvolvimento de e-commerce básico com Angular
+Desenvolvimento de uma e-commerce utilizando os recursos do Angular.
