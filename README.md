@@ -1,2 +1,4 @@
-# e-commerceproject
-Desenvolvimento de uma e-commerce utilizando os recursos do Angular.
+# E-commerceproject - Bookstore 📚
+Neste projeto proposto no bootcampo da Unimed BH, desenvolvi uma e-commerce de livros a partir do Angular.
+
+Para desenvolvê-lo utilizei, principalmente, os recursos do Typescript e JavaScript. 
